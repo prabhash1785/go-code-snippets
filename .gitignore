@@ -3,6 +3,8 @@
 *.a
 *.so
 
+/bin
+
 # Folders
 _obj
 _test
